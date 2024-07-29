@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": ""
+      "value": "1250450587"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -27,7 +27,7 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": ""
+      "value": "filesharexbot"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
