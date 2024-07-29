@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/YourFriend-Code/Anime-bot.git",
+  "repository": "https://github.com/YourFriend-Code/File-sharing-bot.git",
   "logo": "https://ibb.co/vhsbHBg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "6578454293"
+      "value": ""
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
